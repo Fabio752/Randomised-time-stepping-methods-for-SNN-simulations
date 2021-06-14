@@ -1,0 +1,6 @@
+numpy
+matplotlib
+tqdm
+brian2
+numba
+seaborn
